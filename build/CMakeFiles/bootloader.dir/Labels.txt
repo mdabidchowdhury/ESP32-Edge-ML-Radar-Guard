@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Python/esp-csi/examples/get-started/csi_recv_router/build/CMakeFiles/bootloader
+C:/Python/esp-csi/examples/get-started/csi_recv_router/build/CMakeFiles/bootloader.rule
+C:/Python/esp-csi/examples/get-started/csi_recv_router/build/CMakeFiles/bootloader-complete.rule
+C:/Python/esp-csi/examples/get-started/csi_recv_router/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Python/esp-csi/examples/get-started/csi_recv_router/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Python/esp-csi/examples/get-started/csi_recv_router/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Python/esp-csi/examples/get-started/csi_recv_router/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Python/esp-csi/examples/get-started/csi_recv_router/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Python/esp-csi/examples/get-started/csi_recv_router/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Python/esp-csi/examples/get-started/csi_recv_router/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

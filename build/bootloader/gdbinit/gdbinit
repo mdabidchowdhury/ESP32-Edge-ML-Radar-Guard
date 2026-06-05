@@ -1,0 +1,2 @@
+source C:/Python/esp-csi/examples/get-started/csi_recv_router/build/bootloader/gdbinit/symbols
+source C:/Python/esp-csi/examples/get-started/csi_recv_router/build/bootloader/gdbinit/connect
